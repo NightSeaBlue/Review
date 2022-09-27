@@ -15,6 +15,6 @@
 			
 			// 대부분 프로그램에 콜렉션이 있음
  
- [참고] 스택(Last In, First Out) 큐 (First In First Out)
+ [참고] 스택(Last In, First Out 후입 선출) 큐 (First In First Out 선입선출)
  			
 			
